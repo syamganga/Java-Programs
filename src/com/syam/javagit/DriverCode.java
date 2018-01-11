@@ -14,9 +14,9 @@ public class DriverCode {
 	
 	public static void display(){
 		
-		System.out.println("Hello Syam!");
-		System.out.println("World is so beautiful!");
-		System.out.println("Its  the new begining!");
+		System.out.println("Hello SYAM!");
+		System.out.println("THE WORLD IS SO BEAUTIFUL!");
+		System.out.println("ITS THE NEW BEGINING!");
 	}
 	
 }
