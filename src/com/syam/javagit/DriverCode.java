@@ -15,7 +15,7 @@ public class DriverCode {
 	public static void display(){
 		
 		System.out.println("Hello Syam!");
-		
+		System.out.println("World is so beautiful!");
 	}
 	
 }
